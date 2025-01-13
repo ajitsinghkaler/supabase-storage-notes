@@ -18,7 +18,7 @@ These notes document my exploration and understanding of the Supabase Storage im
 
 ## Note
 
-The current notes in the `rough-notes` directory are preliminary observations and may contain unstructured content due to the Notion-to-Markdown export process. More polished and organized documentation is in progress.
+The current notes in the `rough-notes` directory are preliminary observations and may contain unstructured content due to the Notion-to-Markdown export process. More polished and organized articles is in progress.
 
 ## Version Information
 
