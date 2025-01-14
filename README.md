@@ -11,11 +11,8 @@ These notes document my exploration and understanding of the Supabase Storage im
 ## Repository Structure
 
 - `rough-notes/` - Contains raw notes exported from Notion, documenting my initial analysis and observations
-- *(Coming Soon)* Detailed articles covering:
-  - System Architecture Overview
-  - Design Patterns and Implementation Details
-  - Key Components and Their Interactions
-
+- Detailed articles covering:
+  - [Storage Repository Overview](./storage-understanding.md)
 ## Note
 
 The current notes in the `rough-notes` directory are preliminary observations and may contain unstructured content due to the Notion-to-Markdown export process. More polished and organized articles is in progress.
