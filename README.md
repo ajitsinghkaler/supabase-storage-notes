@@ -14,8 +14,13 @@ These notes document my exploration and understanding of the Supabase Storage im
 - Detailed articles covering:
   - [Storage Repository Overview](./storage-understanding.md)
   - [Authentication and Authorization](./auth.md)
+  - [Migrations](./migrations.md)
+  - [Deployement](./ops.md)
   - [Storage Backends](./storage-backends.md)
   - [Tracing and Metrics](./tracing-metrics.md)
+  - [TUS and Imgproxy](./tus-imgproxy.md)
+  - [Tenant](./tenant.md)
+
 ## Note
 
 The current notes in the `rough-notes` directory are preliminary observations and may contain unstructured content due to the Notion-to-Markdown export process. More polished and organized articles is in progress.
